@@ -1,6 +1,6 @@
 // Find the smallest positive number that is evenly divisible by all of the numbers from 1 to 20
 // https://projecteuler.net/problem=5
-// Time: 26.94s
+// Time: 1.4443334s
 
 const MIN: i32 = 1;
 const MAX: i32 = 20;
